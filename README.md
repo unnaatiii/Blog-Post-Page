@@ -1,6 +1,8 @@
 # Blog-Post-Page
 visit https://unnaatiii.github.io/Blog-Post-Page/ to view the page.
 
+Project URL https://github.com/unnaatiii/Blog-Post-Page
+
 Key requirements:
 
 Page regions: Use <header> for the site name and primary navigation, <main> containing a single <article> for the post itself, and <footer> for closing content like copyright.
